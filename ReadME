@@ -1,0 +1,18 @@
+// Calculator
+
+: Xcode playground
+: Swift ver 5
+
+// 구현한것
+: 더하기(AddOperation)
+: 빼기(SubstractOperation)
+: 곱하기(MultiplyOperation)
+: 나누기(DivideOperation)
+
+// 코드설명
+class로 각 연산을 생성하고, Calculator에서 사용하도록 연관지어 구현했습니다.
+
+// 고민한점
+Calculator에서가 아닌 각 연산클래스에 구현하게 하는것이 헷갈렸습니다.
+
+연산결과 확인완료
